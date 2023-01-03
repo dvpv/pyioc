@@ -1,0 +1,11 @@
+nuts:
+  - id:     UserManager
+    class:  json_user_manager:JsonUserManager
+    properties:
+      - name:   file
+        value:  users.json
+  # - id:     UserManager
+  #   class:  yaml_user_manager:YamlUserManager
+  #   properties:
+  #     - name:   file
+  #       value:  users.yaml

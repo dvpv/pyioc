@@ -1,0 +1,25 @@
+movies:
+  - title: "Movie title 1"
+    rating: 3
+    year: 1999
+  - title: "Movie title 2"
+    rating: 2
+    year: 2022
+  - title: "Movie title 3"
+    rating: 3
+    year: 2002
+  - title: "Movie title 4"
+    rating: 2
+    year: 2003
+  - title: "Movie title 5"
+    rating: 4
+    year: 1954
+  - title: "Movie title 6"
+    rating: 1
+    year: 1992
+  - title: "Movie title 7"
+    rating: 2
+    year: 2011
+  - title: "Movie title 8"
+    rating: 5
+    year: 2009

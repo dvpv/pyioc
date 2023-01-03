@@ -1,0 +1,11 @@
+nuts:
+  - id:     MovieLister
+    class:  src.movie_lister:MovieLister
+    properties:
+      - name:   finder
+        ref:    MovieFinder
+  - id:     MovieFinder
+    class:  src.movie_finder:FileMovieFinder
+    properties:
+      - name:   file
+        value:  movies.yaml
